@@ -8,7 +8,7 @@
   "approval": false,
   "saveState": true,
   "BOTNAME": "Joy-bot",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "100065050393649",
     "100"
